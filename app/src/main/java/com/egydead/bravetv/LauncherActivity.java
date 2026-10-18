@@ -1,4 +1,4 @@
-﻿package com.egydead.bravetv;
+package com.egydead.bravetv;
 
 import android.app.Activity;
 import android.content.Intent;
