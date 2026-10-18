@@ -1,0 +1,1 @@
+﻿buildscript {\n  repositories {\n    google()\n    mavenCentral()\n  }\n  dependencies {\n    classpath 'com.android.tools.build:gradle:8.5.2'\n  }\n}\n\nallprojects {\n  repositories {\n    google()\n    mavenCentral()\n  }\n}\n\ntask clean(type: Delete) {\n  delete rootProject.buildDir\n}
